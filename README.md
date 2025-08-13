@@ -1,5 +1,6 @@
 # Ecommerce-platform-project
 new repository
+
 E-Commerce Platform – Team Contributions
 
 
@@ -32,7 +33,7 @@ Category creation, editing, and deletion (Admin)
 Product listing, search, details, and admin product management.
 
 Shopping cart add/update/remove items and for database design makes ER diagram, relationships and 
-README preparation
+README preparation, for video added voice over 
 
 3. Suraiya Murshed Maha– Payments, Reviews &  
 
@@ -42,6 +43,6 @@ Product reviews (add, display, moderation)
 
 Add  Review for products 
 
-Project documentation and GitHub  ,upload README , and add  voice over for project video 
+Project documentation and GitHub  ,upload README , and video 
 
 For Database design  and schema creation all members contributed the same.
